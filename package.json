@@ -1,0 +1,7 @@
+{
+  "name": "facebook_google_user",
+  "private": true,
+  "dependencies": {
+    "ngrok": "^3.0.1"
+  }
+}
